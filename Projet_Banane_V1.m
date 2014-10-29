@@ -56,6 +56,8 @@ end
 
 save('structfile.mat','Label_struc');
 
+Test  charles est un gros con gros con.
+
 %%
 %Second version going as many times as there are labels but creating only
 %one entry per images
