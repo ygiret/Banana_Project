@@ -56,7 +56,7 @@ end
 
 save('structfile.mat','Label_struc');
 
-Test bite bite
+Test charles
 %%
 %Second version going as many times as there are labels but creating only
 %one entry per images
